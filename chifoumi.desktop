@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=chifoumi
+Comment=Commentaire de mon script Python
+Exec=python3 /Users/utilisateur/Desktop/final/Bienvenue.py
+Icon=face-smile-big
+Terminal=false
+Categories=Application
